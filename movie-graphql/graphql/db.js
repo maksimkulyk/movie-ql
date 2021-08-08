@@ -1,5 +1,4 @@
 import axios from "axios";
-import fetch from "node-fetch";
 
 const BASE_URL = "https://yts.mx/api/v2";
 const LIST_MOVIES_URL = `${BASE_URL}/list_movies.json?`;
